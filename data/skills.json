@@ -1,0 +1,7 @@
+{
+    "programming": ["Python", "R"],
+    "machine_learning": ["Regression", "Classification", "Clustering"],
+    "libraries": ["Numpy", "Pandas", "Matplotlib", "Scikit-Learn"],
+    "cloud": ["Azure"],
+    "data_visualization": ["Excel", "Power BI"]
+}
